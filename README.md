@@ -28,14 +28,14 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 
 
 ### Sustainability & Compliance
-*   **[Millimetre Forms](https://millimetre-forms.co.za/)** - Council form filler - enter your information once, complete all of the required forms for various municipalities. Pay per project.
 *   **[FenCalc](https://fencalc.co.za/)** - Complete 10400XA deemed-to-satisfy compliance calculator with PDF reports
-*   **[SANScalc](https://sanscalc.co.za/)** - 10400XA deemed-to-satisfy clouds based calculator
 *   **[Joburg Refuse Area Calculator](https://plrcodes.github.io/AECvibecoding/joburg_refuse_calculator.html)** - Calculatoes area required for refuse storage per Pikitup guidelines. FREE
+*   **[Millimetre Forms](https://millimetre-forms.co.za/)** - Council form filler - enter your information once, complete all of the required forms for various municipalities. Pay per project.
+*   **[SANScalc](https://sanscalc.co.za/)** - 10400XA deemed-to-satisfy clouds based calculator
 
 ### Practice & Project Management
-*   **[Fresh Projects](https://www.gofreshprojects.com/)** - Project and office management - timesheets, project invoicing, time management.
 *   **[FeeDesk](https://feedesk.co.za/)** - Quickly calculate fees and submit proposal letters.
+*   **[Fresh Projects](https://www.gofreshprojects.com/)** - Project and office management - timesheets, project invoicing, time management.
 
 ---
 
