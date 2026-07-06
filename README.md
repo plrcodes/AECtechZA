@@ -29,9 +29,12 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 
 ### Sustainability & Compliance
 *   **[Company Name](URL)** - Description goes here.
+*   **[Millimetre Firms]([https://millimetre-forms.co.za/])** - Council forms filler - enter your information once, complete all of the required forms for various municipalities. Pay per project
+
 
 ### Practice & Project Management
-*   **[Company Name](URL)** - Description goes here.
+*   **[Fresh Projects]([https://www.gofreshprojects.com/])** - Project and office management - timesheets, project invoicing, time management
+*   **[FeeDesk]([https://feedesk.co.za/])** - Project and office management - timesheets, project invoicing, time management
 
 ---
 
@@ -47,7 +50,7 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 *   **[Company Name](URL)** - Description goes here.
 
 ### Estimating & Cost Control
-*   **[Company Name](URL)** - Description goes here.
+*   **[GoBuild360]([https://www.gobuild360.io/])** - BIM-model based construction cost estimation.
 
 ---
 
@@ -64,4 +67,4 @@ Contributions are welcome! If you know of a South African AEC startup or tool th
 
 ## 📄 License
 
-Th
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
