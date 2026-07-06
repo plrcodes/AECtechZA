@@ -29,7 +29,7 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 
 ### Sustainability & Compliance
 *   **[FenCalc](https://fencalc.co.za/)** - Complete 10400XA deemed-to-satisfy compliance calculator with PDF reports
-*   **[Joburg Refuse Area Calculator](https://plrcodes.github.io/AECvibecoding/joburg_refuse_calculator.html)** - Calculatoes area required for refuse storage per Pikitup guidelines. FREE
+*   **[Joburg Refuse Area Calculator](https://plrcodes.github.io/AECvibecoding/joburg_refuse_calculator.html)** - Calculates area required for refuse storage per Pikitup guidelines. FREE
 *   **[Millimetre Forms](https://millimetre-forms.co.za/)** - Council form filler - enter your information once, complete all of the required forms for various municipalities. Pay per project.
 *   **[SANScalc](https://sanscalc.co.za/)** - 10400XA deemed-to-satisfy clouds based calculator
 
