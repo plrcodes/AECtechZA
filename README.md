@@ -22,13 +22,16 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 ## 🏛️ Professionals & Designers
 
 ### BIM & Design Automation
-*   **[Company Name](URL)** - Brief 1-sentence description of what they do, their target platform (e.g., Revit, AutoCAD, Web), and where they are based. *e.g., "Automates x workflow for local structural engineers."*
+
 
 ### PropTech & Feasibility
-*   **[Company Name](URL)** - Description goes here.
+
 
 ### Sustainability & Compliance
-*   **[Millimetre Forms](https://millimetre-forms.co.za/)** - Council forms filler - enter your information once, complete all of the required forms for various municipalities. Pay per project.
+*   **[Millimetre Forms](https://millimetre-forms.co.za/)** - Council form filler - enter your information once, complete all of the required forms for various municipalities. Pay per project.
+*   **[FenCalc](https://fencalc.co.za/)** - Complete 10400XA deemed-to-satisfy compliance calculator with PDF reports
+*   **[SANScalc](https://sanscalc.co.za/)** - 10400XA deemed-to-satisfy clouds based calculator
+*   **[Joburg Refuse Area Calculator](https://plrcodes.github.io/AECvibecoding/joburg_refuse_calculator.html)** - Calculatoes area required for refuse storage per Pikitup guidelines. FREE
 
 ### Practice & Project Management
 *   **[Fresh Projects](https://www.gofreshprojects.com/)** - Project and office management - timesheets, project invoicing, time management.
@@ -39,13 +42,12 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 ## 🏗️ Contractors & Fabricators
 
 ### ConTech & Site Operations
-*   **[Company Name](URL)** - Description goes here.
 
 ### Fabrication & Off-Site Manufacturing
-*   **[Company Name](URL)** - Description goes here.
+
 
 ### Procurement & Material Logistics
-*   **[Company Name](URL)** - Description goes here.
+*   **[ClickBuild](https://clickbuild.co.za/)** - app-based rebar and readymix sourcing with multiple quotes.
 
 ### Estimating & Cost Control
 *   **[GoBuild360](https://www.gobuild360.io/)** - BIM-model based construction cost estimation.
@@ -56,7 +58,7 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 
 Contributions are welcome! If you know of a South African AEC startup or tool that belongs here, please read the guidelines below:
 
-1. Fork this repository.
+1. Fork [this repository](https://github.com/plrcodes/AECtechZA).
 2. Add the company to the appropriate category in alphabetical order.
 3. Use the format: `* **[Name](Link)** - Short, objective description.`
 4. Submit a Pull Request.
@@ -66,3 +68,5 @@ Contributions are welcome! If you know of a South African AEC startup or tool th
 ## 📄 License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](LICENSE.md).
+
+Maintained by [Peter le Roux](https://peterleroux.co.za/)
