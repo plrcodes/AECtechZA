@@ -6,12 +6,12 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 
 ## 🧭 Directory Index
 
-- [Professionals & Designers](#-professionals--designers)
-  - [BIM & Design Automation](#bim--designation-automation)
+- [Professionals & Designers](#️-professionals--designers)
+  - [BIM & Design Automation](#bim--design-automation)
   - [PropTech & Feasibility](#proptech--feasibility)
   - [Sustainability & Compliance](#sustainability--compliance)
   - [Practice & Project Management](#practice--project-management)
-- [Contractors & Fabricators](#-contractors--fabricators)
+- [Contractors & Fabricators](#️-contractors--fabricators)
   - [ConTech & Site Operations](#contech--site-operations)
   - [Fabrication & Off-Site Manufacturing](#fabrication--off-site-manufacturing)
   - [Procurement & Material Logistics](#procurement--material-logistics)
@@ -28,13 +28,11 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 *   **[Company Name](URL)** - Description goes here.
 
 ### Sustainability & Compliance
-*   **[Company Name](URL)** - Description goes here.
-*   **[Millimetre Firms]([https://millimetre-forms.co.za/])** - Council forms filler - enter your information once, complete all of the required forms for various municipalities. Pay per project
-
+*   **[Millimetre Forms](https://millimetre-forms.co.za/)** - Council forms filler - enter your information once, complete all of the required forms for various municipalities. Pay per project.
 
 ### Practice & Project Management
-*   **[Fresh Projects]([https://www.gofreshprojects.com/])** - Project and office management - timesheets, project invoicing, time management
-*   **[FeeDesk]([https://feedesk.co.za/])** - Project and office management - timesheets, project invoicing, time management
+*   **[Fresh Projects](https://www.gofreshprojects.com/)** - Project and office management - timesheets, project invoicing, time management.
+*   **[FeeDesk](https://feedesk.co.za/)** - Quickly calculate fees and submit proposal letters.
 
 ---
 
@@ -50,7 +48,7 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 *   **[Company Name](URL)** - Description goes here.
 
 ### Estimating & Cost Control
-*   **[GoBuild360]([https://www.gobuild360.io/])** - BIM-model based construction cost estimation.
+*   **[GoBuild360](https://www.gobuild360.io/)** - BIM-model based construction cost estimation.
 
 ---
 
@@ -67,4 +65,4 @@ Contributions are welcome! If you know of a South African AEC startup or tool th
 
 ## 📄 License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](LICENSE.md).
