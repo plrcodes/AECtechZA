@@ -1,5 +1,3 @@
-# AECtechZA
-
 A curated directory of Architecture, Engineering, and Construction (AEC) tech startups, platforms, and digital tools innovating in the South African built environment.
 
 ---
