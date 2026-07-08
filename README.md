@@ -47,7 +47,7 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
   
 ### Procurement & Material Logistics
 *  **[Build Better](https://buildbetter.co.za/)** - B2B digital procurement marketplace connecting SMME contractors with a nationwide network of hardware suppliers, streamlining quoting and invoicing
-*  **[Circularbuild}(https://circularbuild.co.za/)** - online marketplace to buy and sell recycled building materials
+*  **[Circularbuild](https://circularbuild.co.za/)** - online marketplace to buy and sell recycled building materials
 *   **[ClickBuild](https://clickbuild.co.za/)** - app-based rebar and readymix sourcing with multiple quotes.
 
 ### Estimating & Cost Control
