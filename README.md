@@ -20,13 +20,14 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 ## 🏛️ Professionals & Designers
 
 ### BIM & Design Automation
-
+*  **[ParaMatic Developments](https://paramatic.com/)** - BIM add-ons for Tekla Structures, focusing on automated MEP workflows, clash detection, and industrial plant layout engineering
 
 ### PropTech & Feasibility
 
 
 ### Sustainability & Compliance
 *   **[FenCalc](https://fencalc.co.za/)** - Complete 10400XA deemed-to-satisfy compliance calculator with PDF reports
+*   **[GoRational](https://gorational.co.za/)** - Digital compliance service providing rapid Agrément-certified rational design energy reports to prevent architectural compromises and streamline municipal plan approvals.
 *   **[Joburg Refuse Area Calculator](https://plrcodes.github.io/AECvibecoding/joburg_refuse_calculator.html)** - Calculates area required for refuse storage per Pikitup guidelines. FREE
 *   **[Millimetre Forms](https://millimetre-forms.co.za/)** - Council form filler - enter your information once, complete all of the required forms for various municipalities. Pay per project.
 *   **[SANScalc](https://sanscalc.co.za/)** - 10400XA deemed-to-satisfy clouds based calculator
@@ -42,9 +43,11 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 ### ConTech & Site Operations
 
 ### Fabrication & Off-Site Manufacturing
-
-
+* **[HouseZero](https://www.housezero.co.za/)** - Premium modular building manufacturer integrating off-grid solar energy systems and smart-home technology into highly stylized prefabricated structures.
+  
 ### Procurement & Material Logistics
+*  **[Build Better](https://buildbetter.co.za/)** - B2B digital procurement marketplace connecting SMME contractors with a nationwide network of hardware suppliers, streamlining quoting and invoicing
+*  **[Circularbuild}(https://circularbuild.co.za/)** - online marketplace to buy and sell recycled building materials
 *   **[ClickBuild](https://clickbuild.co.za/)** - app-based rebar and readymix sourcing with multiple quotes.
 
 ### Estimating & Cost Control
