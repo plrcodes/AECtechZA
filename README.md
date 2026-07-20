@@ -26,6 +26,7 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 
 
 ### Sustainability & Compliance
+*   **[Archkit](https://archkit.io/)** - pre-launch - council submission checklist and management
 *   **[FenCalc](https://fencalc.co.za/)** - Complete 10400XA deemed-to-satisfy compliance calculator with PDF reports
 *   **[GoRational](https://gorational.co.za/)** - Digital compliance service providing rapid Agrément-certified rational design energy reports to prevent architectural compromises and streamline municipal plan approvals.
 *   **[Joburg Refuse Area Calculator](https://plrcodes.github.io/AECvibecoding/joburg_refuse_calculator.html)** - Calculates area required for refuse storage per Pikitup guidelines. FREE
