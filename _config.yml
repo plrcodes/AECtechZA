@@ -1,3 +1,23 @@
 remote_theme: pages-themes/tactile@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Shown in the theme header, the browser tab, and search results.
+title: AECtechZA
+description: A curated directory of South African AEC technology — the tools, startups and platforms building for architecture, engineering and construction.
+url: https://aectech.peterleroux.co.za
+
+author:
+  name: Peter le Roux
+
+# Hides the theme's "Download .zip / .tar.gz" buttons.
+show_downloads: false
+
+# Wraps every page in _layouts/site.html, which adds the header and footer.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: site
