@@ -29,7 +29,7 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 *   **[Archkit](https://archkit.io/)** - pre-launch - council submission checklist and management
 *   **[FenCalc](https://fencalc.co.za/)** - Complete 10400XA deemed-to-satisfy compliance calculator with PDF reports
 *   **[GoRational](https://gorational.co.za/)** - Digital compliance service providing rapid Agrément-certified rational design energy reports to prevent architectural compromises and streamline municipal plan approvals.
-*   **[Joburg Refuse Area Calculator](https://plrcodes.github.io/AECvibecoding/joburg_refuse_calculator.html)** - Calculates area required for refuse storage per Pikitup guidelines. FREE
+*   **[Joburg Refuse Area Calculator](https://plrcodes.github.io/AECvibecoding/joburg_refuse_calculator.html)** - Calculates area required for refuse storage per Pikitup guidelines. FREE _(mine)_
 *   **[Millimetre Forms](https://millimetre-forms.co.za/)** - Council form filler - enter your information once, complete all of the required forms for various municipalities. Pay per project.
 *   **[SANScalc](https://sanscalc.co.za/)** - 10400XA deemed-to-satisfy clouds based calculator
 
@@ -53,22 +53,3 @@ A curated directory of Architecture, Engineering, and Construction (AEC) tech st
 
 ### Estimating & Cost Control
 *   **[GoBuild360](https://www.gobuild360.io/)** - BIM-model based construction cost estimation.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you know of a South African AEC startup or tool that belongs here, please read the guidelines below:
-
-1. Fork [this repository](https://github.com/plrcodes/AECtechZA).
-2. Add the company to the appropriate category in alphabetical order.
-3. Use the format: `* **[Name](Link)** - Short, objective description.`
-4. Submit a Pull Request.
-
----
-
-## 📄 License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](LICENSE.md).
-
-Maintained by [Peter le Roux](https://peterleroux.co.za/)
