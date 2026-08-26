@@ -1,0 +1,61 @@
+<style>
+  /* Header and footer added by _layouts/site.html.
+     Colours are inherited from the tactile theme on purpose — this file
+     only sets layout and spacing, so the theme still controls the palette. */
+
+  .plr-nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1.25rem;
+    margin: 0 0 1.6rem;
+    padding: 0 0 0.9rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+
+  .plr-brand {
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+  }
+
+  .plr-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.1rem;
+    margin-left: auto;
+  }
+
+  .plr-nav a { text-decoration: none; }
+  .plr-nav a:hover,
+  .plr-nav a:focus { text-decoration: underline; }
+
+  .plr-foot {
+    margin: 2.75rem 0 0;
+    padding: 1.25rem 0 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+    font-size: 0.86rem;
+    line-height: 1.6;
+  }
+
+  .plr-foot p { margin: 0 0 0.65rem; }
+  .plr-foot p:last-child { margin-bottom: 0; }
+
+  .plr-disclosure { opacity: 0.85; }
+
+  .plr-meta {
+    opacity: 0.7;
+    font-size: 0.8rem;
+  }
+
+  .plr-meta span { margin: 0 0.15rem; }
+
+  @media (max-width: 600px) {
+    .plr-links {
+      margin-left: 0;
+      width: 100%;
+    }
+  }
+</style>
